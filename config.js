@@ -1,19 +1,19 @@
 const CONFIG = {
     introTitle: 'Hồng à!',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
+    introDesc: `Trái đất vốn lạ thường\n
+    Mà sao em cứ đi nhầm đường\n
+    Lạc vào tim anh lẻ loi\n
     Đằng sau chữ yêu đây là thương`,
     btnIntro: 'Ủa cái gì zậy',
     title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
+    desc: 'Mình thích cậu đấy cậu thì sao 😊😊😊 ',
     btnYes: 'Em thích anh cũng lâu lắm rồi 😘',
     btnNo: 'Không, Mình chỉ xem cậu là bạn 😢',
     question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh ❤',
     btnReply: 'Gửi cho anh ❤❤❤',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
+    reply: 'Yêu thì yêu mà không yêu thì yêu ❤❤❤',
     mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h anh qua đón nhé công chúa.',
-    btnAccept: 'Okiiiii lun <3',
+    messDesc: 'Nhưng mình sợ ba mẹ bạn lắm',
+    btnAccept: 'Mình lo',
     messLink: 'https://www.facebook.com/tandeptrainhatxom/' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
