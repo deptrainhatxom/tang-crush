@@ -1,6 +1,6 @@
 const CONFIG = {
     introTitle: 'Hồng à!',
-    introDesc: `Yêu một người không khó
+    introDesc: `Yêu một người không khó              
 Cậu có muốn làm điều đó cùng mình không?`,
     btnIntro: 'Ủa cái gì zậy',
     title: 'Phải chăng cậu đã yêu ngay từ cái nhìn đầu tiên 😙',
