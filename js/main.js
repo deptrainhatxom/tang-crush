@@ -22,7 +22,7 @@ function firstQuestion() {
     Swal.fire({
         title: CONFIG.introTitle,
         text: CONFIG.introDesc,
-        imageUrl: 'img/received_803924563620894.jpeg',
+        imageUrl: 'img/lookMe.jpg',
         imageWidth: 300,
         imageHeight: 300,
         background: '#fff url("img/iput-bg.jpg")',
@@ -104,7 +104,7 @@ $('#yes').click(function () {
         width: 900,
         padding: '3em',
         html: "<input type='text' class='form-control' id='txtReason' onmousemove=textGenerate()  placeholder='Why 🤔🤔🤔'>",
-        background: '#fff url("img/iput-bg.jpg")',
+        background: '#fff url("img/put-bg.jpg")',
         backdrop: `
               rgba(0,0,123,0.4)
               url("img/giphy2.gif")
