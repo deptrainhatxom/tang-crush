@@ -26,7 +26,7 @@ function firstQuestion() {
         imageWidth: 300,
         imageHeight: 300,
         background: '#fff url("img/iput-bg.jpg")',
-        imageAlt: 'Custom image',
+        imageAlt: 'FB_IMG_1626349006594.jpg',
         confirmButtonText: CONFIG.btnIntro
     }).then(function () {
         $('.content').show(200);
